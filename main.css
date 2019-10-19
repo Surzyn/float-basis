@@ -1,0 +1,35 @@
+.left{
+    float: left;
+}
+
+.floating{
+    float: right;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.green{
+    background-image: url("http://i.imgur.com/Q3cUg29.gif");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.black{
+    background-color: black;
+    clear: right;
+}
+
+body{
+    border: 1px solid black;
+}
